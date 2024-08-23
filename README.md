@@ -27,6 +27,4 @@
 
     php artisan serve
 
-## Our valuable team👩‍💻👨‍💻 :
-
 
