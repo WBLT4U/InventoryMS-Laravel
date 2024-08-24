@@ -5,9 +5,9 @@
 
 ## Quick Installation
 
-    git clone https://github.com/WBLT4U/InventoryMS-Laravel-9.git
+    git clone https://github.com/WBLT4U/InventoryMS-Laravel.git
 
-    cd InventoryMS-Laravel-9
+    cd InventoryMS-Laravel
     
 ### Composer
 
