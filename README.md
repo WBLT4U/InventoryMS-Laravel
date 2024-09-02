@@ -2,7 +2,7 @@
 <h1 align="center">Inventory Management System</h1>
 <hr>
 
-Features
+##Features
 Stock Management: Easily track and manage inventory levels.
 Order Processing: Efficiently handle customer orders from placement to delivery.
 Reporting: Generate detailed sales and inventory reports.
